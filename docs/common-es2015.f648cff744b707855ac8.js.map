@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///src/app/core/Models/menumodel.ts"],"names":["menumodel"],"mappings":"2FAAA,gCAAO,MAAMA","file":"x","sourcesContent":["export class menumodel\r\n{\r\n    fa_icon: string;\r\n    title: string;\r\n    route: string;\r\n    IsSetup: boolean;\r\n}"]}
